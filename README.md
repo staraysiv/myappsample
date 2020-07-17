@@ -1,3 +1,3 @@
 #MyShot
 
-This's a project of Myshot App
+This's a project of Myshot App Version!
